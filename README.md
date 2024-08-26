@@ -25,6 +25,3 @@ Una aplicación web sencilla para gestionar el presupuesto personal. Permite reg
 
 Las contribuciones son bienvenidas. Puedes abrir un "issue" o enviar un "pull request" para mejoras.
 
-## Licencia
-
-Licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para detalles.
